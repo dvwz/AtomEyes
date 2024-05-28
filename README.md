@@ -1,6 +1,6 @@
 # AtomEyes
 
-AtomEyes is an open-source tool for waveform alignment using convolutional dictionary learning (CDL). It provides a suite of functions to analyze and visualize the temporal patterns and activations of atoms learned by a CDL model. This README provides an overview of the functionalities and usage examples.
+AtomEyes is an open-source tool for waveform alignment using convolutional dictionary learning (CDL) as implemented by alphaCSC. It provides a suite of functions to analyze and visualize the temporal patterns and activations of atoms learned by a CDL models. See the examples folder.
 
 ## Features
 
