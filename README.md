@@ -14,7 +14,7 @@ AtomEyes is an open-source tool for waveform alignment using convolutional dicti
 
 ## To-DO
 
-- Parameters for "modes": peak/rise/decay/trough, burst detection, 
+- Parameters for "modes": peak/rise/decay/trough, burst detection
 - Find optimal range of n_times_atom based on frequency band and mode
 - Group cycles based on temporal distribution of extrema
 - Limit atom timing in comparison (see above)
@@ -37,7 +37,8 @@ pip install -r requirements.txt
 
 ### Plot Temporal Patterns
 
-```from alphacsc import ConvolutionalDictionaryLearning
+```python
+from alphacsc import ConvolutionalDictionaryLearning
 import matplotlib.pyplot as plt
 
 # Assuming `cdl_model` is a fitted instance of ConvolutionalDictionaryLearning
